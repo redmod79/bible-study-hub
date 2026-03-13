@@ -1,0 +1,159 @@
+# Bible Study Series
+
+A collection of tool-driven, sola scriptura Bible studies. Every study uses the same methodology: discover scope through topical dictionaries and concordances, gather all relevant verses with full context, analyze the original Hebrew and Greek, and let Scripture interpret Scripture.
+
+No commentaries. No denominational traditions. Just the biblical text, examined systematically.
+
+---
+
+## Study Series
+
+<div class="hub-grid" markdown>
+
+<div class="hub-card series-hist" markdown>
+
+### :material-book-open-variant: [The Historicist Proof](https://redmod79.github.io/hist-website/)
+
+**Does Bible Prophecy Span History?**
+
+A 19-study investigation examining whether Daniel and Revelation describe a continuous span of history from the prophet's time to the second coming of Christ. Covers the four kingdoms, 70 weeks, 2300 days, seven churches, seals, trumpets, bowls, and recapitulation.
+
+- **Studies:** 19
+- **Evidence items:** 496 classified
+- **Key topics:** Daniel, Revelation, historicism, day-year principle, 1844
+
+[:octicons-arrow-right-24: Read the series](https://redmod79.github.io/hist-website/){ .md-button }
+
+</div>
+
+<div class="hub-card series-law" markdown>
+
+### :material-scale-balance: [The Law of God](https://redmod79.github.io/law-website/)
+
+**What Does the Bible Say?**
+
+A 33-study investigation examining every major text, word, and argument bearing on the moral law, ceremonial law, the Sabbath, and what continues under the New Covenant. Includes Greek and Hebrew word studies of key terms like *nomos*, *entole*, and *torah*.
+
+- **Studies:** 33
+- **Key topics:** Moral law, ceremonial law, Sabbath, New Covenant, Galatians, Hebrews
+
+[:octicons-arrow-right-24: Read the series](https://redmod79.github.io/law-website/){ .md-button }
+
+</div>
+
+<div class="hub-card series-etc" markdown>
+
+### :material-fire: [The Final Fate of the Wicked](https://redmod79.github.io/etc-website/)
+
+**What Does the Bible Teach?**
+
+A 21-study investigation examining every major text, word, and argument bearing on the final fate of the wicked. Covers *aionios*, *Gehenna*, *Sheol/Hades*, the rich man and Lazarus, and the lake of fire.
+
+- **Studies:** 21
+- **Key topics:** Hell, eternal torment, annihilation, soul, death, immortality
+
+[:octicons-arrow-right-24: Read the series](https://redmod79.github.io/etc-website/){ .md-button }
+
+</div>
+
+<div class="hub-card series-pvj" markdown>
+
+### :material-swap-horizontal: [Does Paul Contradict Jesus?](https://redmod79.github.io/pvj-website/)
+
+**Examining Every Major Alleged Contradiction**
+
+A 22-study investigation examining every major alleged contradiction between Paul and Jesus -- faith vs works, the law, food laws, circumcision, women's roles, the Gentile mission, and more.
+
+- **Studies:** 22
+- **Key topics:** Paul, Jesus, faith, works, law, grace, continuity
+
+[:octicons-arrow-right-24: Read the series](https://redmod79.github.io/pvj-website/){ .md-button }
+
+</div>
+
+<div class="hub-card series-cmd" markdown>
+
+### :material-tablet: [The Ten Commandments Deep Dive](https://redmod79.github.io/cmd-website/)
+
+**What Does the Bible Say?**
+
+A 17-study investigation examining what Scripture teaches about each of the Ten Commandments -- origin, meaning, Hebrew and Greek word studies, OT application, prophetic expansion, NT treatment, and cross-references.
+
+- **Studies:** 17
+- **Key topics:** Decalogue, moral law, Exodus 20, Deuteronomy 5, commandments
+
+[:octicons-arrow-right-24: Read the series](https://redmod79.github.io/cmd-website/){ .md-button }
+
+</div>
+
+<div class="hub-card series-gen6" markdown>
+
+### :material-account-group: [Genesis 6: Sons of God](https://redmod79.github.io/genesis-6-website/)
+
+**The "Sons of God" Question**
+
+A comprehensive 10-part biblical analysis of the "Sons of God" in Genesis 6:1-4. Examines every occurrence of *bene elohim*, the Sethite view, the angel view, and the Godly Human view using sola scriptura methodology.
+
+- **Parts:** 10
+- **Key topics:** Genesis 6, Nephilim, sons of God, bene elohim, angels
+
+[:octicons-arrow-right-24: Read the study](https://redmod79.github.io/genesis-6-website/){ .md-button }
+
+</div>
+
+<div class="hub-card series-topics" markdown>
+
+### :material-bookshelf: [Bible Study Collection](https://redmod79.github.io/bible-topics-website/)
+
+**Independent Studies on Various Topics**
+
+Individual Bible studies on various topics, each produced by tool-driven research using the same methodology as the major series.
+
+- **Studies:** 2
+- **Key topics:** Revelation authorship, genealogies of Jesus
+
+[:octicons-arrow-right-24: Browse studies](https://redmod79.github.io/bible-topics-website/){ .md-button }
+
+</div>
+
+</div>
+
+---
+
+## Methodology
+
+Every study in every series follows the same research pipeline:
+
+1. **Scope Discovery** -- Nave's Topical Bible (5,319 topics) and semantic search identify relevant passages. No verse is hand-picked from memory.
+2. **Data Gathering** -- Full verse text retrieved with chapter context. Cross-testament parallels found in both directions. Strong's concordance lookups for key terms.
+3. **Original Language Analysis** -- Hebrew parsing via BHSA/Text-Fabric. Greek parsing via N1904/Text-Fabric. Morphological analysis of every relevant verb, noun, and particle.
+4. **Systematic Analysis** -- Verse-by-verse examination. Pattern identification across passages. Word study integration. Difficult passages addressed directly.
+5. **Conclusion** -- Evidence-based synthesis. Every claim supported by specific verses. Both sides presented where genuine debate exists.
+
+**What these studies do NOT use:**
+
+- No commentaries or systematic theologies
+- No Ellen White, church fathers, or denominational traditions
+- No appeal to "what most scholars believe"
+- Only the biblical text, examined with linguistic tools
+
+---
+
+## Statistics
+
+| Series | Studies | Methodology |
+|--------|---------|-------------|
+| [The Historicist Proof](https://redmod79.github.io/hist-website/) | 19 | Evidence classification (496 items) |
+| [The Law of God](https://redmod79.github.io/law-website/) | 33 | Evidence tiers (8 levels) |
+| [The Final Fate of the Wicked](https://redmod79.github.io/etc-website/) | 21 | Evidence tiers (8 levels) |
+| [Does Paul Contradict Jesus?](https://redmod79.github.io/pvj-website/) | 22 | Evidence tiers (8 levels) |
+| [The Ten Commandments](https://redmod79.github.io/cmd-website/) | 17 | Evidence tiers (8 levels) |
+| [Genesis 6: Sons of God](https://redmod79.github.io/genesis-6-website/) | 10 parts | Sola scriptura analysis |
+| [Bible Study Collection](https://redmod79.github.io/bible-topics-website/) | 2 | Tool-driven research |
+| **Total** | **124+ studies** | |
+
+---
+
+<p style="text-align: center; color: #888; font-size: 0.85em;">
+Built with <a href="https://squidfunk.github.io/mkdocs-material/">Material for MkDocs</a>
+</p>
