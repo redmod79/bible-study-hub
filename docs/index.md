@@ -8,115 +8,59 @@ No commentaries. No denominational traditions. Just the biblical text, examined 
 
 ## Study Series
 
-<div class="hub-grid" markdown>
+### [The Historicist Proof](https://redmod79.github.io/hist-website/) -- 19 Studies
 
-<div class="hub-card series-hist" markdown>
+*Does Bible Prophecy Span History?*
 
-### :material-book-open-variant: [The Historicist Proof](https://redmod79.github.io/hist-website/)
+A 19-study investigation examining whether Daniel and Revelation describe a continuous span of history from the prophet's time to the second coming of Christ. Covers the four kingdoms, 70 weeks, 2300 days, seven churches, seals, trumpets, bowls, and recapitulation. 496 evidence items classified.
 
-**Does Bible Prophecy Span History?**
+---
 
-A 19-study investigation examining whether Daniel and Revelation describe a continuous span of history from the prophet's time to the second coming of Christ. Covers the four kingdoms, 70 weeks, 2300 days, seven churches, seals, trumpets, bowls, and recapitulation.
+### [The Law of God](https://redmod79.github.io/law-website/) -- 33 Studies
 
-- **Studies:** 19
-- **Evidence items:** 496 classified
-- **Key topics:** Daniel, Revelation, historicism, day-year principle, 1844
-
-[:octicons-arrow-right-24: Read the series](https://redmod79.github.io/hist-website/){ .md-button }
-
-</div>
-
-<div class="hub-card series-law" markdown>
-
-### :material-scale-balance: [The Law of God](https://redmod79.github.io/law-website/)
-
-**What Does the Bible Say?**
+*What Does the Bible Say?*
 
 A 33-study investigation examining every major text, word, and argument bearing on the moral law, ceremonial law, the Sabbath, and what continues under the New Covenant. Includes Greek and Hebrew word studies of key terms like *nomos*, *entole*, and *torah*.
 
-- **Studies:** 33
-- **Key topics:** Moral law, ceremonial law, Sabbath, New Covenant, Galatians, Hebrews
+---
 
-[:octicons-arrow-right-24: Read the series](https://redmod79.github.io/law-website/){ .md-button }
+### [The Final Fate of the Wicked](https://redmod79.github.io/etc-website/) -- 21 Studies
 
-</div>
-
-<div class="hub-card series-etc" markdown>
-
-### :material-fire: [The Final Fate of the Wicked](https://redmod79.github.io/etc-website/)
-
-**What Does the Bible Teach?**
+*What Does the Bible Teach?*
 
 A 21-study investigation examining every major text, word, and argument bearing on the final fate of the wicked. Covers *aionios*, *Gehenna*, *Sheol/Hades*, the rich man and Lazarus, and the lake of fire.
 
-- **Studies:** 21
-- **Key topics:** Hell, eternal torment, annihilation, soul, death, immortality
+---
 
-[:octicons-arrow-right-24: Read the series](https://redmod79.github.io/etc-website/){ .md-button }
+### [Does Paul Contradict Jesus?](https://redmod79.github.io/pvj-website/) -- 22 Studies
 
-</div>
-
-<div class="hub-card series-pvj" markdown>
-
-### :material-swap-horizontal: [Does Paul Contradict Jesus?](https://redmod79.github.io/pvj-website/)
-
-**Examining Every Major Alleged Contradiction**
+*Examining Every Major Alleged Contradiction*
 
 A 22-study investigation examining every major alleged contradiction between Paul and Jesus -- faith vs works, the law, food laws, circumcision, women's roles, the Gentile mission, and more.
 
-- **Studies:** 22
-- **Key topics:** Paul, Jesus, faith, works, law, grace, continuity
+---
 
-[:octicons-arrow-right-24: Read the series](https://redmod79.github.io/pvj-website/){ .md-button }
+### [The Ten Commandments Deep Dive](https://redmod79.github.io/cmd-website/) -- 17 Studies
 
-</div>
-
-<div class="hub-card series-cmd" markdown>
-
-### :material-tablet: [The Ten Commandments Deep Dive](https://redmod79.github.io/cmd-website/)
-
-**What Does the Bible Say?**
+*What Does the Bible Say?*
 
 A 17-study investigation examining what Scripture teaches about each of the Ten Commandments -- origin, meaning, Hebrew and Greek word studies, OT application, prophetic expansion, NT treatment, and cross-references.
 
-- **Studies:** 17
-- **Key topics:** Decalogue, moral law, Exodus 20, Deuteronomy 5, commandments
+---
 
-[:octicons-arrow-right-24: Read the series](https://redmod79.github.io/cmd-website/){ .md-button }
+### [Genesis 6: Sons of God](https://redmod79.github.io/genesis-6-website/) -- 10 Parts
 
-</div>
-
-<div class="hub-card series-gen6" markdown>
-
-### :material-account-group: [Genesis 6: Sons of God](https://redmod79.github.io/genesis-6-website/)
-
-**The "Sons of God" Question**
+*The "Sons of God" Question*
 
 A comprehensive 10-part biblical analysis of the "Sons of God" in Genesis 6:1-4. Examines every occurrence of *bene elohim*, the Sethite view, the angel view, and the Godly Human view using sola scriptura methodology.
 
-- **Parts:** 10
-- **Key topics:** Genesis 6, Nephilim, sons of God, bene elohim, angels
+---
 
-[:octicons-arrow-right-24: Read the study](https://redmod79.github.io/genesis-6-website/){ .md-button }
+### [Bible Study Collection](https://redmod79.github.io/bible-topics-website/) -- 2 Studies
 
-</div>
-
-<div class="hub-card series-topics" markdown>
-
-### :material-bookshelf: [Bible Study Collection](https://redmod79.github.io/bible-topics-website/)
-
-**Independent Studies on Various Topics**
+*Independent Studies on Various Topics*
 
 Individual Bible studies on various topics, each produced by tool-driven research using the same methodology as the major series.
-
-- **Studies:** 2
-- **Key topics:** Revelation authorship, genealogies of Jesus
-
-[:octicons-arrow-right-24: Browse studies](https://redmod79.github.io/bible-topics-website/){ .md-button }
-
-</div>
-
-</div>
 
 ---
 
@@ -151,9 +95,3 @@ Every study in every series follows the same research pipeline:
 | [Genesis 6: Sons of God](https://redmod79.github.io/genesis-6-website/) | 10 parts | Sola scriptura analysis |
 | [Bible Study Collection](https://redmod79.github.io/bible-topics-website/) | 2 | Tool-driven research |
 | **Total** | **124+ studies** | |
-
----
-
-<p style="text-align: center; color: #888; font-size: 0.85em;">
-Built with <a href="https://squidfunk.github.io/mkdocs-material/">Material for MkDocs</a>
-</p>
