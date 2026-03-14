@@ -1,28 +1,18 @@
 #!/usr/bin/env python3
 """
-inject_links.py — Inject a hub link into each site's index.md.
+inject_links.py — Clean up old Related Studies sections from site index.md files.
 
-Replaces the old "Related Studies" table with a single link back to the
-Bible Study Hub. Also adds a hub banner near the top of the page (after
-the first heading/subtitle block).
+Removes the old Related Studies table and any info banners, since the hub
+link is now handled by the Material theme announcement bar (overrides/main.html).
 
 Usage:
-    python D:/bible/hub-website/inject_links.py --all     # Update all sites at once
+    python D:/bible/hub-website/inject_links.py --all     # Clean all sites
     python D:/bible/hub-website/inject_links.py --site hist
 """
 
 import argparse
 import re
 from pathlib import Path
-
-HUB_URL = "https://redmod79.github.io/bible-study-hub/"
-
-HUB_BANNER = (
-    '!!! info "Part of the [Bible Study Series]({url})"\n'
-    "    This study is one of several series using the same tool-driven, "
-    "sola scriptura research methodology. "
-    "[Browse all series]({url})."
-).format(url=HUB_URL)
 
 # Map site IDs to their index.md paths
 SITE_PATHS = {
@@ -36,47 +26,8 @@ SITE_PATHS = {
 }
 
 
-def remove_related_studies(content):
-    """Remove the old Related Studies section entirely."""
-    # Match: ---\n\n## Related Studies ... to end or next ## heading
-    # Also remove the preceding --- separator if present
-    pattern = r"\n---\n+## Related Studies\n.*?(?=\n## |\Z)"
-    content = re.sub(pattern, "", content, count=1, flags=re.DOTALL)
-    # Also catch without preceding ---
-    pattern2 = r"\n## Related Studies\n.*?(?=\n## |\Z)"
-    content = re.sub(pattern2, "", content, count=1, flags=re.DOTALL)
-    return content
-
-
-def inject_banner(content):
-    """Add hub banner after the first paragraph block (after title + intro)."""
-    # If banner already exists, remove it first
-    content = re.sub(
-        r'!!! info "Part of the \[Bible Study Series\].*?\n    \[Browse all series\].*?\.\n*',
-        "",
-        content,
-        flags=re.DOTALL,
-    )
-
-    # Insert after the first --- separator (which comes after the intro paragraph)
-    # This places it prominently near the top
-    first_sep = content.find("\n---\n")
-    if first_sep != -1:
-        # Insert banner right after the first ---
-        insert_pos = first_sep + len("\n---\n")
-        content = content[:insert_pos] + "\n" + HUB_BANNER + "\n\n" + content[insert_pos:].lstrip("\n")
-    else:
-        # No separator found, insert after the first blank line (after title)
-        first_blank = content.find("\n\n")
-        if first_blank != -1:
-            insert_pos = first_blank + 2
-            content = content[:insert_pos] + HUB_BANNER + "\n\n" + content[insert_pos:]
-
-    return content
-
-
-def update_site(site_id, target_path=None):
-    """Update one site: remove Related Studies table, add hub banner."""
+def clean_site(site_id, target_path=None):
+    """Remove old Related Studies table and info banner from a site."""
     path = target_path or SITE_PATHS.get(site_id)
     if path is None:
         print(f"  ERROR: Unknown site '{site_id}'")
@@ -86,30 +37,50 @@ def update_site(site_id, target_path=None):
         return False
 
     content = path.read_text(encoding="utf-8")
-    content = remove_related_studies(content)
-    content = inject_banner(content)
-    # Clean up any triple+ blank lines
+    original = content
+
+    # Remove Related Studies section
+    content = re.sub(
+        r"\n---\n+## Related Studies\n.*?(?=\n## |\Z)",
+        "", content, count=1, flags=re.DOTALL
+    )
+    content = re.sub(
+        r"\n## Related Studies\n.*?(?=\n## |\Z)",
+        "", content, count=1, flags=re.DOTALL
+    )
+
+    # Remove info banner
+    content = re.sub(
+        r'!!! info "Part of the \[Bible Study Series\].*?\n    .*?\[Browse all series\].*?\.\n*',
+        "", content, flags=re.DOTALL
+    )
+
+    # Clean up triple+ blank lines
     content = re.sub(r"\n{4,}", "\n\n\n", content)
-    path.write_text(content, encoding="utf-8")
-    print(f"  {site_id}: updated {path}")
+
+    if content != original:
+        path.write_text(content, encoding="utf-8")
+        print(f"  {site_id}: cleaned {path}")
+    else:
+        print(f"  {site_id}: already clean")
     return True
 
 
 def main():
-    parser = argparse.ArgumentParser(description="Inject hub link into sites")
-    parser.add_argument("--site", help="Site ID to update (e.g. hist, law, etc)")
+    parser = argparse.ArgumentParser(description="Clean old Related Studies from sites")
+    parser.add_argument("--site", help="Site ID (e.g. hist, law, etc)")
     parser.add_argument("--target", help="Target index.md path (overrides default)")
-    parser.add_argument("--all", action="store_true", help="Update all sites")
+    parser.add_argument("--all", action="store_true", help="Clean all sites")
     args = parser.parse_args()
 
     if args.all:
-        print("Updating all sites...")
+        print("Cleaning all sites...")
         for site_id in SITE_PATHS:
-            update_site(site_id)
+            clean_site(site_id)
         print("Done.")
     elif args.site:
         target = Path(args.target) if args.target else None
-        update_site(args.site, target)
+        clean_site(args.site, target)
     else:
         parser.print_help()
 
