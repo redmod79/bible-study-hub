@@ -77,7 +77,7 @@ Every study in every series follows the same research pipeline:
 **What these studies do NOT use:**
 
 - No commentaries or systematic theologies
-- No Ellen White, church fathers, or denominational traditions
+- No church fathers or denominational traditions
 - No appeal to "what most scholars believe"
 - Only the biblical text, examined with linguistic tools
 
