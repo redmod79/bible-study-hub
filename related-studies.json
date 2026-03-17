@@ -30,6 +30,12 @@
     "description": "A 17-study investigation of the Ten Commandments -- origin, meaning, Hebrew and Greek word studies, love and law, faith and obedience. 1,054 evidence items classified."
   },
   {
+    "id": "sanc",
+    "name": "The Biblical Sanctuary",
+    "url": "https://redmod79.github.io/sanc-website/",
+    "description": "A 30-study comprehensive investigation of the biblical sanctuary from architecture through theology to Revelation. 284 evidence items classified."
+  },
+  {
     "id": "genesis-6",
     "name": "Genesis 6: The \"Sons of God\" Question",
     "url": "https://redmod79.github.io/genesis-6-website/",

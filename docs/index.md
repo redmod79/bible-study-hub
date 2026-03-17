@@ -48,6 +48,14 @@ A 17-study investigation examining what Scripture teaches about each of the Ten 
 
 ---
 
+### [The Biblical Sanctuary](https://redmod79.github.io/sanc-website/) -- 30 Studies
+
+*God's Master Illustration of the Plan of Salvation*
+
+A 30-study comprehensive investigation of the biblical sanctuary from its physical architecture through its theological implications for salvation, prophecy, and Revelation. Covers tabernacle architecture, the ritual system, feast calendar, atonement theology, Christ's heavenly ministry, Daniel's prophecies, and Revelation's sanctuary imagery. 284 evidence items classified.
+
+---
+
 ### [Genesis 6: Sons of God](https://redmod79.github.io/genesis-6-website/) -- 10 Parts
 
 *The "Sons of God" Question*
@@ -92,6 +100,7 @@ Every study in every series follows the same research pipeline:
 | [The Final Fate of the Wicked](https://redmod79.github.io/etc-website/) | 21 | Evidence tiers (8 levels) |
 | [Does Paul Contradict Jesus?](https://redmod79.github.io/pvj-website/) | 22 | Evidence tiers (8 levels) |
 | [The Ten Commandments](https://redmod79.github.io/cmd-website/) | 17 | Evidence tiers (8 levels) |
+| [The Biblical Sanctuary](https://redmod79.github.io/sanc-website/) | 30 | Evidence classification (284 items) |
 | [Genesis 6: Sons of God](https://redmod79.github.io/genesis-6-website/) | 10 parts | Sola scriptura analysis |
 | [Bible Study Collection](https://redmod79.github.io/bible-topics-website/) | 2 | Tool-driven research |
-| **Total** | **124+ studies** | |
+| **Total** | **154+ studies** | |
