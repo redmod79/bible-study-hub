@@ -56,6 +56,14 @@ A 30-study comprehensive investigation of the biblical sanctuary from its physic
 
 ---
 
+### [Day of Atonement in Revelation](https://redmod79.github.io/rev-website/) -- 26 Studies
+
+*Is the Day of Atonement Revelation's Theological Framework?*
+
+A 26-study exposition of Revelation through the Day of Atonement and sanctuary lens. Traces sanctuary imagery, feast calendar fulfillment, and DOA ritual parallels through every chapter of Revelation. 191 evidence items classified.
+
+---
+
 ### [Genesis 6: Sons of God](https://redmod79.github.io/genesis-6-website/) -- 10 Parts
 
 *The "Sons of God" Question*
@@ -101,6 +109,7 @@ Every study in every series follows the same research pipeline:
 | [Does Paul Contradict Jesus?](https://redmod79.github.io/pvj-website/) | 22 | Evidence tiers (8 levels) |
 | [The Ten Commandments](https://redmod79.github.io/cmd-website/) | 17 | Evidence tiers (8 levels) |
 | [The Biblical Sanctuary](https://redmod79.github.io/sanc-website/) | 30 | Evidence classification (284 items) |
+| [Day of Atonement in Revelation](https://redmod79.github.io/rev-website/) | 26 | Evidence classification (191 items) |
 | [Genesis 6: Sons of God](https://redmod79.github.io/genesis-6-website/) | 10 parts | Sola scriptura analysis |
 | [Bible Study Collection](https://redmod79.github.io/bible-topics-website/) | 2 | Tool-driven research |
-| **Total** | **154+ studies** | |
+| **Total** | **180+ studies** | |
