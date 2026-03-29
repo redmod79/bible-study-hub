@@ -8,6 +8,14 @@ No commentaries. No denominational traditions. Just the biblical text, examined 
 
 ## Study Series
 
+### [Daniel: Three Views Compared](https://redmod79.github.io/dan3-website/) -- 31 Studies
+
+*Historicist, Preterist, and Futurist — Compared Head to Head*
+
+A 31-study comparative investigation of Daniel's prophecies. Each vision cycle (Dan 2, 7, 8, 8-9, 10-12) is read through all three lenses, then compared in a specification-match analysis. Includes cross-cutting studies on the day-year principle, NT use of Daniel, Daniel-Revelation connections, and steelman compilations for each position. 399 evidence items classified.
+
+---
+
 ### [The Historicist Proof](https://redmod79.github.io/hist-website/) -- 19 Studies
 
 *Does Bible Prophecy Span History?*
@@ -103,6 +111,7 @@ Every study in every series follows the same research pipeline:
 
 | Series | Studies | Methodology |
 |--------|---------|-------------|
+| [Daniel: Three Views Compared](https://redmod79.github.io/dan3-website/) | 31 | Evidence classification (399 items) |
 | [The Historicist Proof](https://redmod79.github.io/hist-website/) | 19 | Evidence classification (496 items) |
 | [The Law of God](https://redmod79.github.io/law-website/) | 33 | Evidence tiers (8 levels) |
 | [The Final Fate of the Wicked](https://redmod79.github.io/etc-website/) | 21 | Evidence tiers (8 levels) |
@@ -112,4 +121,4 @@ Every study in every series follows the same research pipeline:
 | [Day of Atonement in Revelation](https://redmod79.github.io/rev-website/) | 26 | Evidence classification (191 items) |
 | [Genesis 6: Sons of God](https://redmod79.github.io/genesis-6-website/) | 10 parts | Sola scriptura analysis |
 | [Bible Study Collection](https://redmod79.github.io/bible-topics-website/) | 2 | Tool-driven research |
-| **Total** | **180+ studies** | |
+| **Total** | **211+ studies** | |
