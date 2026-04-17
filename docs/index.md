@@ -80,11 +80,19 @@ A comprehensive 10-part biblical analysis of the "Sons of God" in Genesis 6:1-4.
 
 ---
 
-### [Bible Study Collection](https://redmod79.github.io/bible-topics-website/) -- 2 Studies
+### [Bible Study Collection](https://redmod79.github.io/bible-topics-website/) -- 6 Studies
 
 *Independent Studies on Various Topics*
 
 Individual Bible studies on various topics, each produced by tool-driven research using the same methodology as the major series.
+
+---
+
+### [Biblical Word Studies](https://redmod79.github.io/word-studies-website/) -- 428 Entries
+
+*Hebrew, Aramaic, and Greek Word Study Library*
+
+A comprehensive library of 428 original-language word studies organized into five categories: Hebrew (89), Aramaic (12), Greek (140), Cross-Testament Traces (86), and Word Groups (101). Each entry is built from Strong's concordance data, morphological analysis, and distribution statistics. Cross-testament traces show how Hebrew words map through the LXX into their Greek NT equivalents. Word groups gather all related terms around a single concept across both testaments.
 
 ---
 
@@ -120,5 +128,6 @@ Every study in every series follows the same research pipeline:
 | [The Biblical Sanctuary](https://redmod79.github.io/sanc-website/) | 30 | Evidence classification (284 items) |
 | [Day of Atonement in Revelation](https://redmod79.github.io/rev-website/) | 26 | Evidence classification (191 items) |
 | [Genesis 6: Sons of God](https://redmod79.github.io/genesis-6-website/) | 10 parts | Sola scriptura analysis |
-| [Bible Study Collection](https://redmod79.github.io/bible-topics-website/) | 2 | Tool-driven research |
-| **Total** | **219+ studies** | |
+| [Bible Study Collection](https://redmod79.github.io/bible-topics-website/) | 6 | Tool-driven research |
+| [Biblical Word Studies](https://redmod79.github.io/word-studies-website/) | 428 entries | Strong's concordance + morphological analysis |
+| **Total** | **219+ studies, 428 word studies** | |
