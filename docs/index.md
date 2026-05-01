@@ -88,11 +88,11 @@ Individual Bible studies on various topics, each produced by tool-driven researc
 
 ---
 
-### [The Final Fate of the Wicked — Study Guides](https://redmod79.github.io/study-guides/) -- 20 Studies
+### [Bible Study Guides](https://redmod79.github.io/study-guides/) -- 20 Guides
 
-*Interactive Bible Study Guide Series*
+*Interactive Study Guides with Beginner and Advanced Levels*
 
-A 20-study interactive Bible study guide series derived from the Final Fate of the Wicked research. Each study has beginner and advanced levels, with questions-only pages for self-study and full answer keys. The series teaches the critical skill of distinguishing between what the Bible explicitly says (Explicit) and what people claim it teaches (Inference).
+Interactive Bible study guides designed for self-study or group use. Each guide has beginner and advanced levels, with questions-only pages and full answer keys. Currently hosts the Final Fate of the Wicked series (20 guides). New series will be added as they are produced.
 
 ---
 
@@ -137,6 +137,6 @@ Every study in every series follows the same research pipeline:
 | [Day of Atonement in Revelation](https://redmod79.github.io/rev-website/) | 26 | Evidence classification (191 items) |
 | [Genesis 6: Sons of God](https://redmod79.github.io/genesis-6-website/) | 10 parts | Sola scriptura analysis |
 | [Bible Study Collection](https://redmod79.github.io/bible-topics-website/) | 6 | Tool-driven research |
-| [Final Fate — Study Guides](https://redmod79.github.io/study-guides/) | 20 guides | Explicit vs. inference classification |
+| [Bible Study Guides](https://redmod79.github.io/study-guides/) | 20 guides | Explicit vs. inference classification |
 | [Biblical Word & Grammar Studies](https://redmod79.github.io/word-studies-website/) | 587 entries | Strong's concordance + morphological analysis + grammar reference |
 | **Total** | **219+ studies, 20 guides, 576 word studies, 11 grammar entries** | |
