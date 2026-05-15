@@ -56,35 +56,13 @@ A 17-study investigation examining what Scripture teaches about each of the Ten 
 
 ---
 
-### [The Atonement — Four Frameworks](https://redmod79.github.io/atone-website/) -- 19 Studies
+### [The Sanctuary Series](sanctuary.md) -- 102 Studies across 4 Series
 
-*How Scripture's Atonement Models Work Individually and Converge*
+*Atonement · Sanctuary · Daniel 8:14 · Revelation*
 
-A 19-study investigation examining four interlocking atonement frameworks: sacrificial (chattat/asham blood atonement), covenant-curse (Deuteronomic curse-bearing), priestly (garments, sin-bearing, intercession), and substitutionary (Isaiah 53's Servant). Traces each framework through its OT roots, watches them converge in key NT passages (Isaiah 53, 1 Peter, Romans 3), and integrates them at the Day of Atonement. Each study includes a plain-language summary as the default view.
+Four interconnected series tracing the sanctuary from its sacrificial foundations through Revelation's final verdict. The **Atonement** series (19 studies) establishes what blood, curse-bearing, priestly mediation, and substitution accomplish. The **Biblical Sanctuary** series (30 studies) shows how the sanctuary system organizes these mechanisms. The **Daniel 8:14 Vindication** series (27 studies) traces when and why the sanctuary receives its verdict. The **Day of Atonement in Revelation** series (26 studies) follows the sanctuary imagery through Revelation to its conclusion.
 
----
-
-### [The Biblical Sanctuary](https://redmod79.github.io/sanc-website/) -- 30 Studies
-
-*God's Master Illustration of the Plan of Salvation*
-
-A 30-study comprehensive investigation of the biblical sanctuary from its physical architecture through its theological implications for salvation, prophecy, and Revelation. Covers tabernacle architecture, the ritual system, feast calendar, atonement theology, Christ's heavenly ministry, Daniel's prophecies, and Revelation's sanctuary imagery. 284 evidence items classified.
-
----
-
-### [Daniel 8:14 — The Sanctuary Vindication](https://redmod79.github.io/sv-website/) -- 27 Studies
-
-*From the Tamid to the Verdict*
-
-A 27-study investigation tracing the complete arc of Daniel 8:14 — from the foundational vocabulary of righteousness and defilement, through the sanctuary system's daily-to-annual cycle, into Daniel's vision and the 2300-day prophecy, through the judgment as antitypical Day of Atonement, to the vindication itself. Covers Hebrew word studies (*tsadaq*, *taher*, *kaphar*), the 70 weeks as verification key, the *nitsdaq* verdict, Revelation's unsealing, the three angels' messages, and the maskilim. Each study includes a plain-language summary as the default view.
-
----
-
-### [Day of Atonement in Revelation](https://redmod79.github.io/rev-website/) -- 26 Studies
-
-*Is the Day of Atonement Revelation's Theological Framework?*
-
-A 26-study exposition of Revelation through the Day of Atonement and sanctuary lens. Traces sanctuary imagery, feast calendar fulfillment, and DOA ritual parallels through every chapter of Revelation. 191 evidence items classified.
+[**Browse the Sanctuary Series →**](sanctuary.md){ .md-button .md-button--primary }
 
 ---
 
@@ -149,10 +127,7 @@ Every study in every series follows the same research pipeline:
 | [The Final Fate of the Wicked](https://redmod79.github.io/etc-website/) | 21 | Evidence tiers (8 levels) |
 | [Does Paul Contradict Jesus?](https://redmod79.github.io/pvj-website/) | 22 | Evidence tiers (8 levels) |
 | [The Ten Commandments](https://redmod79.github.io/cmd-website/) | 17 | Evidence tiers (8 levels) |
-| [The Atonement — Four Frameworks](https://redmod79.github.io/atone-website/) | 19 | Tool-driven research + four-framework analysis |
-| [The Biblical Sanctuary](https://redmod79.github.io/sanc-website/) | 30 | Evidence classification (284 items) |
-| [Daniel 8:14 — Sanctuary Vindication](https://redmod79.github.io/sv-website/) | 27 | Series reference boundary + tool-driven research |
-| [Day of Atonement in Revelation](https://redmod79.github.io/rev-website/) | 26 | Evidence classification (191 items) |
+| [The Sanctuary Series](sanctuary.md) (4 series) | 102 | Atonement (19) + Sanctuary (30) + Vindication (27) + Revelation (26) |
 | [Genesis 6: Sons of God](https://redmod79.github.io/genesis-6-website/) | 10 parts | Sola scriptura analysis |
 | [Bible Study Collection](https://redmod79.github.io/bible-topics-website/) | 6 | Tool-driven research |
 | [Bible Study Guides](https://redmod79.github.io/study-guides/) | 20 guides | Explicit vs. inference classification |

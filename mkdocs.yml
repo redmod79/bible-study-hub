@@ -45,3 +45,4 @@ markdown_extensions:
 
 nav:
   - Home: index.md
+  - "Sanctuary Series": sanctuary.md
