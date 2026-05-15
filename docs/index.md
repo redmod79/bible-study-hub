@@ -64,6 +64,14 @@ A 30-study comprehensive investigation of the biblical sanctuary from its physic
 
 ---
 
+### [Daniel 8:14 — The Sanctuary Vindication](https://redmod79.github.io/sv-website/) -- 27 Studies
+
+*From the Tamid to the Verdict*
+
+A 27-study investigation tracing the complete arc of Daniel 8:14 — from the foundational vocabulary of righteousness and defilement, through the sanctuary system's daily-to-annual cycle, into Daniel's vision and the 2300-day prophecy, through the judgment as antitypical Day of Atonement, to the vindication itself. Covers Hebrew word studies (*tsadaq*, *taher*, *kaphar*), the 70 weeks as verification key, the *nitsdaq* verdict, Revelation's unsealing, the three angels' messages, and the maskilim. Each study includes a plain-language summary as the default view.
+
+---
+
 ### [Day of Atonement in Revelation](https://redmod79.github.io/rev-website/) -- 26 Studies
 
 *Is the Day of Atonement Revelation's Theological Framework?*
@@ -134,9 +142,10 @@ Every study in every series follows the same research pipeline:
 | [Does Paul Contradict Jesus?](https://redmod79.github.io/pvj-website/) | 22 | Evidence tiers (8 levels) |
 | [The Ten Commandments](https://redmod79.github.io/cmd-website/) | 17 | Evidence tiers (8 levels) |
 | [The Biblical Sanctuary](https://redmod79.github.io/sanc-website/) | 30 | Evidence classification (284 items) |
+| [Daniel 8:14 — Sanctuary Vindication](https://redmod79.github.io/sv-website/) | 27 | Series reference boundary + tool-driven research |
 | [Day of Atonement in Revelation](https://redmod79.github.io/rev-website/) | 26 | Evidence classification (191 items) |
 | [Genesis 6: Sons of God](https://redmod79.github.io/genesis-6-website/) | 10 parts | Sola scriptura analysis |
 | [Bible Study Collection](https://redmod79.github.io/bible-topics-website/) | 6 | Tool-driven research |
 | [Bible Study Guides](https://redmod79.github.io/study-guides/) | 20 guides | Explicit vs. inference classification |
 | [Biblical Word & Grammar Studies](https://redmod79.github.io/word-studies-website/) | 587 entries | Strong's concordance + morphological analysis + grammar reference |
-| **Total** | **219+ studies, 20 guides, 576 word studies, 11 grammar entries** | |
+| **Total** | **246+ studies, 20 guides, 576 word studies, 11 grammar entries** | |
