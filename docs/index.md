@@ -56,6 +56,14 @@ A 17-study investigation examining what Scripture teaches about each of the Ten 
 
 ---
 
+### [The Atonement — Four Frameworks](https://redmod79.github.io/atone-website/) -- 19 Studies
+
+*How Scripture's Atonement Models Work Individually and Converge*
+
+A 19-study investigation examining four interlocking atonement frameworks: sacrificial (chattat/asham blood atonement), covenant-curse (Deuteronomic curse-bearing), priestly (garments, sin-bearing, intercession), and substitutionary (Isaiah 53's Servant). Traces each framework through its OT roots, watches them converge in key NT passages (Isaiah 53, 1 Peter, Romans 3), and integrates them at the Day of Atonement. Each study includes a plain-language summary as the default view.
+
+---
+
 ### [The Biblical Sanctuary](https://redmod79.github.io/sanc-website/) -- 30 Studies
 
 *God's Master Illustration of the Plan of Salvation*
@@ -141,6 +149,7 @@ Every study in every series follows the same research pipeline:
 | [The Final Fate of the Wicked](https://redmod79.github.io/etc-website/) | 21 | Evidence tiers (8 levels) |
 | [Does Paul Contradict Jesus?](https://redmod79.github.io/pvj-website/) | 22 | Evidence tiers (8 levels) |
 | [The Ten Commandments](https://redmod79.github.io/cmd-website/) | 17 | Evidence tiers (8 levels) |
+| [The Atonement — Four Frameworks](https://redmod79.github.io/atone-website/) | 19 | Tool-driven research + four-framework analysis |
 | [The Biblical Sanctuary](https://redmod79.github.io/sanc-website/) | 30 | Evidence classification (284 items) |
 | [Daniel 8:14 — Sanctuary Vindication](https://redmod79.github.io/sv-website/) | 27 | Series reference boundary + tool-driven research |
 | [Day of Atonement in Revelation](https://redmod79.github.io/rev-website/) | 26 | Evidence classification (191 items) |
@@ -148,4 +157,4 @@ Every study in every series follows the same research pipeline:
 | [Bible Study Collection](https://redmod79.github.io/bible-topics-website/) | 6 | Tool-driven research |
 | [Bible Study Guides](https://redmod79.github.io/study-guides/) | 20 guides | Explicit vs. inference classification |
 | [Biblical Word & Grammar Studies](https://redmod79.github.io/word-studies-website/) | 587 entries | Strong's concordance + morphological analysis + grammar reference |
-| **Total** | **246+ studies, 20 guides, 576 word studies, 11 grammar entries** | |
+| **Total** | **265+ studies, 20 guides, 576 word studies, 11 grammar entries** | |
