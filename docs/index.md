@@ -90,11 +90,11 @@ Interactive Bible study guides designed for self-study or group use. Each guide 
 
 ---
 
-### [Biblical Word & Grammar Studies](https://redmod79.github.io/word-studies-website/) -- 587 Entries
+### [Biblical Word & Grammar Studies](https://redmod79.github.io/word-studies-website/) -- 1,619 Entries
 
 *Hebrew, Aramaic, and Greek Word Studies plus Canonical Grammar Reference*
 
-A comprehensive library of 576 original-language word studies and 11 grammar-reference entries. Word studies are organized into five categories: Hebrew (126), Aramaic (13), Greek (198), Cross-Testament Traces (113), and Word Groups (126). Each entry is built from Strong's concordance data, morphological analysis, and distribution statistics. Cross-testament traces show how Hebrew words map through the LXX into their Greek NT equivalents. Word groups gather all related terms around a single concept across both testaments. The grammar reference covers Hebrew syntax (WX-QATAL, weqatal-apodosis, waw-conjunction, stem morphology), Greek syntax (aorist imperative, participial discourse markers, LXX translation patterns), and detailed passage-level grammar analyses.
+A comprehensive library of 1,427 original-language word studies and 192 grammar-reference entries. Word studies are organized into five categories: Hebrew (457), Aramaic (27), Greek (477), Cross-Testament Traces (241), and Word Groups (225). Each entry is built from Strong's concordance data, morphological analysis, and distribution statistics. Cross-testament traces show how Hebrew words map through the LXX into their Greek NT equivalents. Word groups gather all related terms around a single concept across both testaments. The grammar reference covers Hebrew syntax (43 entries), Greek syntax (30 entries), and detailed passage-level grammar analyses (119 entries).
 
 ---
 
@@ -131,5 +131,5 @@ Every study in every series follows the same research pipeline:
 | [Genesis 6: Sons of God](https://redmod79.github.io/genesis-6-website/) | 10 parts | Sola scriptura analysis |
 | [Bible Study Collection](https://redmod79.github.io/bible-topics-website/) | 6 | Tool-driven research |
 | [Bible Study Guides](https://redmod79.github.io/study-guides/) | 20 guides | Explicit vs. inference classification |
-| [Biblical Word & Grammar Studies](https://redmod79.github.io/word-studies-website/) | 587 entries | Strong's concordance + morphological analysis + grammar reference |
-| **Total** | **265+ studies, 20 guides, 576 word studies, 11 grammar entries** | |
+| [Biblical Word & Grammar Studies](https://redmod79.github.io/word-studies-website/) | 1,619 entries | Strong's concordance + morphological analysis + grammar reference |
+| **Total** | **265+ studies, 20 guides, 1,427 word studies, 192 grammar entries** | |
