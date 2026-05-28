@@ -56,6 +56,14 @@ A 17-study investigation examining what Scripture teaches about each of the Ten 
 
 ---
 
+### [The Trinity Re-evaluated](https://redmod79.github.io/trin-website/) -- 10 Studies
+
+*A Biblical Investigation of the Trinity Debate*
+
+A 10-study series examining whether the Bible teaches the deity of Christ, the personhood of the Holy Spirit, and the coherence of these truths with Old Testament monotheism. Prompted by a forum debate, each study addresses specific anti-Trinity arguments: the "firstborn of creation" passages, the subordination texts, the "only true God" exclusion claims, the ransom sacrifice objection, the "my God" and "only God is good" passages, Holy Spirit personhood, what breaks in the Bible's logic if Jesus is not God, how monotheism includes Christ's deity, whether Catholic persecution proves the Trinity false, and whether Nicaea invented Christ's deity. Includes 30+ new word studies and original-language analysis.
+
+---
+
 ### [The Sanctuary Series](sanctuary.md) -- 102 Studies across 4 Series
 
 *Atonement · Sanctuary · Daniel 8:14 · Revelation*
@@ -127,9 +135,10 @@ Every study in every series follows the same research pipeline:
 | [The Final Fate of the Wicked](https://redmod79.github.io/etc-website/) | 21 | Evidence tiers (8 levels) |
 | [Does Paul Contradict Jesus?](https://redmod79.github.io/pvj-website/) | 22 | Evidence tiers (8 levels) |
 | [The Ten Commandments](https://redmod79.github.io/cmd-website/) | 17 | Evidence tiers (8 levels) |
+| [The Trinity Re-evaluated](https://redmod79.github.io/trin-website/) | 10 | Structured JSON analysis + Python validation |
 | [The Sanctuary Series](sanctuary.md) (4 series) | 102 | Atonement (19) + Sanctuary (30) + Vindication (27) + Revelation (26) |
 | [Genesis 6: Sons of God](https://redmod79.github.io/genesis-6-website/) | 10 parts | Sola scriptura analysis |
 | [Bible Study Collection](https://redmod79.github.io/bible-topics-website/) | 6 | Tool-driven research |
 | [Bible Study Guides](https://redmod79.github.io/study-guides/) | 20 guides | Explicit vs. inference classification |
 | [Biblical Word & Grammar Studies](https://redmod79.github.io/word-studies-website/) | 1,619 entries | Strong's concordance + morphological analysis + grammar reference |
-| **Total** | **265+ studies, 20 guides, 1,427 word studies, 192 grammar entries** | |
+| **Total** | **275+ studies, 20 guides, 1,427 word studies, 192 grammar entries** | |
