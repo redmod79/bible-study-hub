@@ -64,6 +64,14 @@ A 10-study series examining whether the Bible teaches the deity of Christ, the p
 
 ---
 
+### [The Three Angels' Messages](https://redmod79.github.io/3am-website/) -- 21 Studies
+
+*What Does the Bible Teach?*
+
+A 21-study investigation of Revelation 14:6-12 -- the three angels' messages. Examines every phrase of the text in the original Greek: the everlasting gospel, fear God, give glory, the hour of judgment, worship the Creator, Babylon's fall, the wine of her fornication, the worship binary, the mark and the seal, wrath without mixture, the patience of the saints, and the commandments of God and the faith of Jesus. Includes a comprehensive defense addressing all 14 major objections. Four arcs: Foundation (OT/NT pattern), First Angel (gospel content), Second Angel (Babylon exposed), Third Angel (worship crisis and result).
+
+---
+
 ### [The Sanctuary Series](sanctuary.md) -- 102 Studies across 4 Series
 
 *Atonement · Sanctuary · Daniel 8:14 · Revelation*
@@ -135,6 +143,7 @@ Every study in every series follows the same research pipeline:
 | [The Final Fate of the Wicked](https://redmod79.github.io/etc-website/) | 21 | Evidence tiers (8 levels) |
 | [Does Paul Contradict Jesus?](https://redmod79.github.io/pvj-website/) | 22 | Evidence tiers (8 levels) |
 | [The Ten Commandments](https://redmod79.github.io/cmd-website/) | 17 | Evidence tiers (8 levels) |
+| [The Three Angels' Messages](https://redmod79.github.io/3am-website/) | 21 | bible-study8 pipeline + Python verification |
 | [The Trinity Re-evaluated](https://redmod79.github.io/trin-website/) | 10 | Structured JSON analysis + Python validation |
 | [The Sanctuary Series](sanctuary.md) (4 series) | 102 | Atonement (19) + Sanctuary (30) + Vindication (27) + Revelation (26) |
 | [Genesis 6: Sons of God](https://redmod79.github.io/genesis-6-website/) | 10 parts | Sola scriptura analysis |
