@@ -72,6 +72,14 @@ A 21-study investigation of Revelation 14:6-12 -- the three angels' messages. Ex
 
 ---
 
+### [Revelation's Architecture](https://redmod79.github.io/revs2-website/) -- 40 Studies
+
+*Structural and Interpretive Analysis of Revelation*
+
+A 40-study structural and interpretive analysis of Revelation. Part 1 (Studies 1-30) maps Revelation's literary architecture through structural markers, symbolic numbers, interpretive frameworks, and OT typology. Part 2 (Studies 31-40) applies those structural findings to key interpretive questions -- beasts, Babylon, the millennium, the mark, three angels' messages, and the new creation. 1,368 catalogued items across structural elements and evidence.
+
+---
+
 ### [The Sanctuary Series](sanctuary.md) -- 102 Studies across 4 Series
 
 *Atonement · Sanctuary · Daniel 8:14 · Revelation*
@@ -144,10 +152,11 @@ Every study in every series follows the same research pipeline:
 | [Does Paul Contradict Jesus?](https://redmod79.github.io/pvj-website/) | 22 | Evidence tiers (8 levels) |
 | [The Ten Commandments](https://redmod79.github.io/cmd-website/) | 17 | Evidence tiers (8 levels) |
 | [The Three Angels' Messages](https://redmod79.github.io/3am-website/) | 21 | bible-study8 pipeline + Python verification |
+| [Revelation's Architecture](https://redmod79.github.io/revs2-website/) | 40 | Structural analysis + evidence classification (1,368 items) |
 | [The Trinity Re-evaluated](https://redmod79.github.io/trin-website/) | 10 | Structured JSON analysis + Python validation |
 | [The Sanctuary Series](sanctuary.md) (4 series) | 102 | Atonement (19) + Sanctuary (30) + Vindication (27) + Revelation (26) |
 | [Genesis 6: Sons of God](https://redmod79.github.io/genesis-6-website/) | 10 parts | Sola scriptura analysis |
 | [Bible Study Collection](https://redmod79.github.io/bible-topics-website/) | 6 | Tool-driven research |
 | [Bible Study Guides](https://redmod79.github.io/study-guides/) | 20 guides | Explicit vs. inference classification |
 | [Biblical Word & Grammar Studies](https://redmod79.github.io/word-studies-website/) | 1,619 entries | Strong's concordance + morphological analysis + grammar reference |
-| **Total** | **275+ studies, 20 guides, 1,427 word studies, 192 grammar entries** | |
+| **Total** | **315+ studies, 20 guides, 1,427 word studies, 192 grammar entries** | |
